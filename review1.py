@@ -43,6 +43,7 @@ def problem1():
 # re read the question and check your spelling!!
 
 def exercise2():
+    # KEY: Nice touch having the user enter the numbers
     numberone = int(input("give me your first number"))
     numbertwo = int(input("I need another number please."))
     numberthree = int(input("And your final number please"))
